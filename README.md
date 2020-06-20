@@ -8,7 +8,7 @@
    - _字符串、列表与文件_，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/SourceCode2.zip">Source Code</a>，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/SourceCode4.zip">File and Sort Source Code</a>；
    - _函数与对象_；
    - _选择结构与循环结构_；
-   - _类_，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Maze1.zip">Maze Source Code</a>；
+   - _类_，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Maze1.zip">Maze Source Code</a>，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Puzzle8-1.zip">Puzzle8 Source Code</a>，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/TicTacToe1.zip">TicTacToe Source Code</a>；
    - _其它结构化数据类型_；
    - _函数式编程初步_；
 
