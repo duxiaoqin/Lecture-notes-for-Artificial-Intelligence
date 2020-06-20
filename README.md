@@ -5,7 +5,7 @@
    - _Python的基本元素_；
    - _Python的数值数据_，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Lesson1-CN.pdf">PPT(10 Pages)</a>；
    - _图形_；
-   - _字符串、列表与文件_，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Lesson2-CN.pdf">PPT(17 Pages)</a>；
+   - _字符串、列表与文件_，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Lesson2-CN.pdf">PPT(17 Pages)</a>，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/SourceCode2.zip">Source Code</a>；
    - _函数与对象_；
    - _选择结构与循环结构_；
    - _类_；
