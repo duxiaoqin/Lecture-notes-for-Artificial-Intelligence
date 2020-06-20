@@ -1,7 +1,7 @@
 # Lecture notes for Artificial Intelligence (人工智能讲义)
 
 ### 主要内容
-- **Chapter1 Python程序设计基础**
+- **\href{https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Chapter1-CN.pdf}{Chapter1 Python程序设计基础}**
    - _Python的基本元素_；
    - _Python的数值数据_；
    - _图形_；
