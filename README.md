@@ -3,7 +3,7 @@
 ### 主要内容
 - <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Chapter1-CN.pdf">Chapter1 Python程序设计基础(197 Pages)</a>
    - _Python的基本元素_；
-   - _Python的数值数据_(<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Lesson1-CN.pdf">PPT(10 Pages)</a>；
+   - _Python的数值数据_，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Lesson1-CN.pdf">PPT(10 Pages)</a>；
    - _图形_；
    - _字符串、列表与文件_；
    - _函数与对象_；
