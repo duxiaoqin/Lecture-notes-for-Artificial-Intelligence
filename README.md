@@ -21,8 +21,8 @@ Python 3.5
    - 算法设计策略；
    
 - <a href="Chapter3-CN.pdf">Chapter3 基本的搜索技术(33 Pages)</a>
-   - 宽度优先搜索, <a href="Search1-CN.pdf">PPT(34 Pages)</a>，<a href="maze_bfs.png">实验结果</a>；
-   - 深度优先搜索；
+   - 宽度优先搜索(Breadth-First Search, BFS), <a href="Search1-CN.pdf">PPT(34 Pages)</a>，<a href="maze_bfs.png">Result</a>；
+   - 深度优先搜索(Depth-First Search, DFS)，<a href="maze_dfs.png">Result</a>；
    - Source Code：<a href="Maze_DBFS.zip">Maze(Python)</a>、<a href="DFSMaze.zip">Maze(Visual Studio 2010)</a>
    
 - <a href="GAMEAI-CN.pdf">PPT：游戏与人工智能(94 Pages)</a>
