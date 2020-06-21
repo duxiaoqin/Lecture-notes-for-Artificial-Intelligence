@@ -1,5 +1,6 @@
 # Lecture notes for Artificial Intelligence (人工智能讲义)
 
+<font size=4 color=#D2691E>列表:</font>
 <font face="黑体" color=#ff0000>Python 3.5</font>
 
 ### 主要内容
