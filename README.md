@@ -45,6 +45,11 @@ Python 3.5 and Visual Studio 2010
    - Semi-Markov决策过程；
    - Source Code：<a href="TicTacToeRL.zip">TicTacToe(Python)</a>、<a href="TTTRL.zip">TicTacToe(Visual Studio 2010)</a>，<a href="TTTRLResult.mp4">Result(Video)</a>
    
+- <a href="Chapter7-CN.pdf">Chapter7 遗传算法基础(16 Pages)</a>，<a href="Genetic-Algorithm-CN.pdf">PPT(37 Pages)</a>
+   - 基本算法；
+   - 理论基础，<a href="SourceCodeGA.zip">Source Code</a>；
+   - Source Code：<a href="TicTacToeGA.zip">TicTacToe(Python)</a>，<a href="TTTGAResult.mp4">Result(Video)</a>
+   
 - <a href="GAMEAI-CN.pdf">PPT：游戏与人工智能(94 Pages)</a>
    - 游戏；
    - 人工智能；
