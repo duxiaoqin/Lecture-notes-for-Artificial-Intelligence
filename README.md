@@ -25,9 +25,7 @@ Python 3.5
    - _深度优先搜索_；
    - Source Code：<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Maze_DBFS.zip">Maze(Python)</a>、<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/DFSMaze.zip">Maze(Visual Studio 2010)</a>
    
-   <figure>
-    <img src="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/maze_bfs.png">
-   </figure>
+   ![实验结果](https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/maze_bfs.png?raw=true)
    
 - <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/GAMEAI-CN.pdf">PPT：游戏与人工智能(94 Pages)</a>
    - 游戏；
