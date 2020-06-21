@@ -27,6 +27,8 @@ Python 3.5
    
    ![实验结果](maze_bfs.png)
    
+   <img src="maze_bfs.png" alt="My cool logo"/>
+   
 - <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/GAMEAI-CN.pdf">PPT：游戏与人工智能(94 Pages)</a>
    - 游戏；
    - 人工智能；
