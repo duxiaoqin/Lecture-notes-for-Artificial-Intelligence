@@ -28,7 +28,7 @@ Python 3.5
 - <a href="Chapter4-CN.pdf">Chapter4 启发式搜索技术(16 Pages)</a>, <a href="Search2-CN.pdf">PPT(39 Pages)</a>
    - 最佳优先搜索算法(Best-First Search, BFS)；
    - 贪心最佳优先搜索(Greedy Best-First Search, GBFS)；
-   - A* 搜索(A* Search)，Source Code：<a href="Puzzle8-AStar.zip">Puzzle8(Python)</a>、<a href="AStarMaze.zip">Maze(Visual Studio 2010)</a>；
+   - A* 搜索(A* Search)，Source Code：<a href="Puzzle8-AStar.zip">Puzzle8(Python)</a>、<a href="AStarMaze.zip">Maze(Visual Studio 2010)</a>，<a href="Puzzle8AStarResult.mp4">Result(Video)</a>；
    
 - <a href="GAMEAI-CN.pdf">PPT：游戏与人工智能(94 Pages)</a>
    - 游戏；
