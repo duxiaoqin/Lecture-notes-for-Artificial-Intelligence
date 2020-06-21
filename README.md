@@ -1,6 +1,6 @@
 # Lecture notes for Artificial Intelligence (人工智能讲义)
 
-Python 3.5
+Python 3.5 and Visual Studio 2010
 
 ### 主要内容
 - <a href="Chapter1-CN.pdf">Chapter1 Python程序设计基础(197 Pages)</a>
@@ -35,6 +35,15 @@ Python 3.5
    - alpha-beta算法；
    - Monte Carlo树搜索(Monte Carlo Tree Search, MCTS)；
    - Source Code：<a href="TicTacToe-GameTree.zip">TicTacToe(Minimax, alpha-beta, MCTS for Python)</a>、<a href="TTTAlphaBeta.zip">TicTacToe(Minimax, alpha-beta for Visual Studio 2010)</a>、<a href="TTTMonteCarlo.zip">TicTacToe(MCTS for Visual Studio 2010)</a>，<a href="Minimax-AlphaBetaResult.mp4">Results for Minimax and alpha-beta(Video)</a>，<a href="MCTSResult.mp4">Result for MCTS(Video)</a>
+   
+- <a href="Chapter6-CN.pdf">Chapter6 强化学习基础(37 Pages)</a>，<a href="RL-CN.pdf">PPT(68 Pages)</a>
+   - 环境-智能体交互模型(EA Model)；
+   - 任务环境；
+   - Markov性质(Markov Property)；
+   - Markov决策过程(Markov Decision Process, MDP)；
+   - MDP的基本方法；
+   - Semi-Markov决策过程；
+   - Source Code：<a href="TicTacToeRL.zip">TicTacToe(Python)</a>、<a href="TTTRL.zip">TicTacToe(Visual Studio 2010)</a>，<a href="TTTRLResult.mp4">Result(Video)</a>
    
 - <a href="GAMEAI-CN.pdf">PPT：游戏与人工智能(94 Pages)</a>
    - 游戏；
