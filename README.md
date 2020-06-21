@@ -1,6 +1,6 @@
 # Lecture notes for Artificial Intelligence (人工智能讲义)
 
-<font color="red">Python 3.5</font>
+Python 3.5
 
 ### 主要内容
 - <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Chapter1-CN.pdf">Chapter1 Python程序设计基础(197 Pages)</a>
@@ -25,7 +25,7 @@
    - _深度优先搜索_；
    - Source Code：<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Maze_DBFS.zip">Maze(Python)</a>、<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/DFSMaze.zip">Maze(Visual Studio 2010)</a>
 
-   <img src="maze_bfs.png" width="50%" height="50%" alt="实验结果"/>
+   <img src="maze_bfs.png" width="10%" height="10%" alt="实验结果"/>
    
 - <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/GAMEAI-CN.pdf">PPT：游戏与人工智能(94 Pages)</a>
    - 游戏；
