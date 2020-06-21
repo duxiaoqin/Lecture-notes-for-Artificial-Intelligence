@@ -1,5 +1,7 @@
 # Lecture notes for Artificial Intelligence (人工智能讲义)
 
+Python: 3.5
+
 ### 主要内容
 - <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Chapter1-CN.pdf">Chapter1 Python程序设计基础(197 Pages)</a>
    - _Python的基本元素_，<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Lesson1-CN.pdf">PPT(10 Pages)</a>；
@@ -17,6 +19,11 @@
    - _递归_；
    - _排序_；
    - _算法设计策略_；
+   
+- <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Chapter3-CN.pdf">基本的搜索技术(33 Pages)</a>
+   - _宽度优先搜索_；
+   - _深度优先搜索_；
+   - Source Code：
    
 - <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/GAMEAI-CN.pdf">PPT：游戏与人工智能(94 Pages)</a>
    - 游戏；
