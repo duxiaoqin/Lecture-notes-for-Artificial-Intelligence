@@ -21,9 +21,13 @@ Python 3.5
    - _算法设计策略_；
    
 - <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Chapter3-CN.pdf">Chapter3 基本的搜索技术(33 Pages)</a>
-   - _宽度优先搜索_, <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Search1-CN.pdf">PPT(34 Pages)</a>，![avatar](https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/maze_bfs.png)；
+   - _宽度优先搜索_, <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Search1-CN.pdf">PPT(34 Pages)</a>；
    - _深度优先搜索_；
    - Source Code：<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Maze_DBFS.zip">Maze(Python)</a>、<a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/DFSMaze.zip">Maze(Visual Studio 2010)</a>
+   
+   <figure>
+    <img src="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/maze_bfs.png">
+   </figure>
    
 - <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/GAMEAI-CN.pdf">PPT：游戏与人工智能(94 Pages)</a>
    - 游戏；
