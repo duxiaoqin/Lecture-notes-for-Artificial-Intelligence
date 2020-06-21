@@ -50,6 +50,13 @@ Python 3.5 and Visual Studio 2010
    - 理论基础，<a href="SourceCodeGA.zip">Source Code</a>；
    - Source Code：<a href="TicTacToeGA.zip">TicTacToe(Python)</a>，<a href="TTTGAResult.mp4">Result(Video)</a>
    
+- <a href="Chapter8-CN.pdf">Chapter8 人工神经网络基础(32 Pages)</a>，<a href="Neural-Networks-CN.pdf">PPT(97 Pages)</a>
+   - 前馈神经网络；
+      - 神经元；
+      - 基于梯度下降的反传算法；
+      - 神经元饱和问题；
+      - 过拟合问题；
+   
 - <a href="GAMEAI-CN.pdf">PPT：游戏与人工智能(94 Pages)</a>
    - 游戏；
    - 人工智能；
