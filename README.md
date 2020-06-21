@@ -1,6 +1,6 @@
 # Lecture notes for Artificial Intelligence (人工智能讲义)
 
-<font color="red">Python 3.5</font>
+<span style="color:red;">Python 3.5</span>
 
 ### 主要内容
 - <a href="https://github.com/duxiaoqin/Lecture-notes-for-Artificial-Intelligence/blob/master/Chapter1-CN.pdf">Chapter1 Python程序设计基础(197 Pages)</a>
