@@ -57,7 +57,7 @@ Python 3.5 and Visual Studio 2010
       - 神经元饱和问题；
       - 过拟合问题；
    
-- <a href="GAMEAI-CN.pdf">PPT：游戏与人工智能(94 Pages)</a>
+- <a href="GAMEAI-CN.pdf">游戏与人工智能(PPT 94 Pages)</a>
    - 游戏；
    - 人工智能；
    - 游戏与人工智能；
