@@ -14,7 +14,7 @@ Python 3.5 and Visual Studio 2010
    - 其它结构化数据类型；
    - 函数式编程初步；
 
-- <a href="Chapter2-CN.pdf">Chapter2 Python算法基础(181 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/Chapter2-CN.html">Chapter2 Python算法基础</a>, <a href="Chapter2-CN.pdf">(Download PDF, 181 Pages)</a>
    - 基本的ADT及其实现；
    - 递归；
    - 排序；
