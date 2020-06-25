@@ -3,7 +3,7 @@
 Python 3.5 and Visual Studio 2010
 
 ### 主要内容
-- <a href="Chapter1-CN.html">Chapter1 Python程序设计基础</a><a href="Chapter1-CN.pdf">(197 Pages)</a>
+- <a href="Chapter1-CN.html">Chapter1 Python程序设计基础</a>, <a href="Chapter1-CN.pdf">(pdf: 197 Pages)</a>
    - Python的基本元素，<a href="Lesson1-CN.pdf">PPT(10 Pages)</a>；
    - Python的数值数据；
    - 图形，<a href="Lesson2-CN.pdf">PPT(17 Pages)</a>，<a href="SourceCode3.zip">Source Code</a>；
