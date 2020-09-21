@@ -36,7 +36,7 @@ Python 3.5 and Visual Studio 2010
    - Monte Carlo树搜索(Monte Carlo Tree Search, MCTS)；
    - Download Source Code：<a href="TicTacToe-GameTree.zip">TicTacToe(Minimax, alpha-beta, MCTS for Python)</a>、<a href="TTTAlphaBeta.zip">TicTacToe(Minimax, alpha-beta for Visual Studio 2010)</a>、<a href="TTTMonteCarlo.zip">TicTacToe(MCTS for Visual Studio 2010)</a>，<a href="Minimax-AlphaBetaResult.mp4">Results for Minimax and alpha-beta(Video)</a>，<a href="MCTSResult.mp4">Result for MCTS(Video)</a>
    
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/Chapter-CSP.html">Chapter 约束满足问题</a>，<a href="Chapter-CSP.pdf">(Download PDF, 26 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/Chapter-CSP.html">Chapter 约束满足问题</a>，<a href="Chapter-CSP.pdf">(Download PDF, 27 Pages)</a>
    - CSP形式化；
    - 求解CSP的通用方法；
    - Download Source Code：<a href="QueensCode.zip">Queens(Python)</a>，<a href="SudokuCode.zip">Sudoku(Python)</a>，<a href="QueensDemo.mp4">Queens Result(Video)</a>，<a href="SudokuDemo.mp4">Sudoku Result(Video)</a>
