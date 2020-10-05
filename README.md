@@ -45,6 +45,20 @@ Python 3.5 and Visual Studio 2010
    - 基本算法；
    - 理论基础，<a href="SourceCodeGA.zip">Download Source Code</a>；
    - Download Source Code：<a href="TicTacToeGA.zip">TicTacToe(Python)</a>，<a href="TTTGAResult.mp4">Result(Video)</a>
+   
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/Chapter-Logic.html">Chapter 命题逻辑与一阶逻辑基础</a>，<a href="Chapter-Logic.pdf">(Download PDF, 53 Pages)</a>
+   - 命题逻辑；
+      - 基本的逻辑运算符；
+      - 摩根定律；
+      - 恒真、恒假、逻辑等价及命题的相容性；
+      - 基本的逻辑等价式；
+      - 论证、有效论证与谬误推理；
+      - 命题逻辑与 SAT 问题；
+      - 归结证明；
+   - 一阶逻辑；
+      - 命题逻辑的局限性；
+      - 语法与语义；
+   - Download Source Code：<a href="LogicQueensSrc.zip">Queens(Python)</a>，<a href="LogicQueensDemo.mp4">Queens Result(Video)</a>
 
 - <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/Chapter6-CN.html">Chapter 强化学习基础</a>，<a href="Chapter6-CN.pdf">(Download PDF, 37 Pages)</a>, <a href="RL-CN.pdf">(Download PPT, 68 Pages)</a>
    - 环境-智能体交互模型(EA Model)；
