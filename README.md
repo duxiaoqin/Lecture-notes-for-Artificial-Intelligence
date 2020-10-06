@@ -40,7 +40,7 @@ Python 3.5 and Visual Studio 2010
    - CSP形式化；
    - 求解CSP的通用方法；
    - Download Source Code：<a href="QueensCode.zip">Queens(Python)</a>，<a href="SudokuCode.zip">Sudoku(Python)</a>，<a href="QueensDemo.mp4">Queens Result(Video)</a>，<a href="SudokuDemo.mp4">Sudoku Result(Video)</a>
-   - Student's Source Code：<a href="Queens-FC3.zip">Forward Checking Algorithm for Queens(Python), by 郑逢宝(计算机11801, 1804240131)</a>
+   - Student's Source Code：<a href="Queens-FC3.zip">Forward Checking Algorithm(FC-3) for Queens(Python), by 郑逢宝(计算机11801, 1804240131)</a>
 
 - <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/Chapter7-CN.html">Chapter 遗传算法基础</a>，<a href="Chapter7-CN.pdf">(Download PDF, 16 Pages)</a>, <a href="Genetic-Algorithm-CN.pdf">(Download PPT, 37 Pages)</a>
    - 基本算法；
@@ -93,3 +93,6 @@ Python 3.5 and Visual Studio 2010
    - 游戏与人工智能；
       - Game for AI;
       - AI for Game;
+
+- 贡献者列表：
+   - 约束满足问题，Student's Source Code：<a href="Queens-FC3.zip">Forward Checking Algorithm(FC-3) for Queens(Python), by 郑逢宝(计算机11801, 1804240131)</a>
