@@ -60,6 +60,7 @@ Python 3.5 and Visual Studio 2010
       - 命题逻辑的局限性；
       - 语法与语义；
    - Download Source Code：<a href="LogicQueensSrc.zip">Queens(Python)</a>，<a href="LogicQueensDemo.mp4">Queens Result(Video)</a>
+   - Student's Source Code：<a href="Queens-DPLL.zip">DPLL SAT Solver for Queens(Python), by 郑逢宝(计算机11801, 1804240131)</a>
    
 - <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/Chapter-Planning.html">Chapter 规划基础</a>，<a href="Chapter-Planning.pdf">(Download PDF, 30 Pages)</a>
    - 规划的标准化语言；
@@ -95,4 +96,5 @@ Python 3.5 and Visual Studio 2010
       - AI for Game;
 
 - 贡献者列表：
-   - 约束满足问题，Student's Source Code：<a href="Queens-FC3.zip">Forward Checking Algorithm(FC-3) for Queens(Python), by 郑逢宝(计算机11801, 1804240131)</a>
+   - Chapter 约束满足问题，Student's Source Code：<a href="Queens-FC3.zip">Forward Checking Algorithm(FC-3) for Queens(Python), by 郑逢宝(计算机11801, 1804240131)</a>
+   - Chapter 命题逻辑与一阶逻辑基础，Student's Source Code：<a href="Queens-DPLL.zip">DPLL SAT Solver for Queens(Python), by 郑逢宝(计算机11801, 1804240131)</a>
