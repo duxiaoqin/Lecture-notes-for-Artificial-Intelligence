@@ -88,6 +88,7 @@ Python 3.5 and Visual Studio 2010
       - 基于梯度下降的反传算法；
       - 神经元饱和问题；
       - 过拟合问题；
+   - Download Source Code：<a href="mnist-ann.ipynb">手写体数字识别(MNIST)</a>
    
 - <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/GAMEAI-CN.html">游戏与人工智能</a>, <a href="GAMEAI-CN.pdf">(Download PPT, 94 Pages)</a>
    - 游戏；
