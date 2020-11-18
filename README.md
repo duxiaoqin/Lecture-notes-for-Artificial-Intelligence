@@ -82,11 +82,12 @@ Python 3.5 and Visual Studio 2010
    - Semi-Markov决策过程；
    - Download Source Code：<a href="TicTacToeRL.zip">TicTacToe(Python)</a>、<a href="TTTRL.zip">TicTacToe(Visual Studio 2010)</a>，<a href="TTTRLResult.mp4">Result(Video)</a>
    
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/Chapter8-CN.html">Chapter 人工神经网络基础</a>，<a href="Chapter8-CN.pdf">(Download PDF, 32 Pages)</a>, <a href="Neural-Networks-CN.pdf">(Download PPT, 97 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/Chapter8-CN.html">Chapter 人工神经网络基础</a>，<a href="Chapter8-CN.pdf">(Download PDF, 37 Pages)</a>, <a href="Neural-Networks-CN.pdf">(Download PPT, 97 Pages)</a>
    - 前馈神经网络；
       - 神经元；
       - 基于梯度下降的反传算法；
       - 神经元饱和问题；
+      - 神经网络的多层函数嵌套视角；
       - 过拟合问题；
    - Download Source Code：<a href="mnist-ann.ipynb">手写体数字识别(MNIST)</a>
    
