@@ -73,7 +73,7 @@ Python 3.5 and Visual Studio 2010
       - 基于状态空间搜索的规划；
    - Download Source Code：<a href="GripperPlanning.zip">Gripper(Python)</a>，<a href="Puzzle8Planning.zip">Puzzle8(Python)</a>
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/Chapter6-CN.html">Chapter 强化学习基础</a>，<a href="Chapter6-CN.pdf">(Download PDF, 37 Pages)</a>, <a href="RL-CN.pdf">(Download PPT, 68 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Artificial-Intelligence/Chapter6-CN.html">Chapter 强化学习基础</a>，<a href="Chapter6-CN.pdf">(Download PDF, 40 Pages)</a>, <a href="RL-CN.pdf">(Download PPT, 68 Pages)</a>
    - 环境-智能体交互模型(EA Model)；
    - 任务环境；
    - Markov性质(Markov Property)；
